@@ -1,8 +1,8 @@
-version: 0.0.0
+version: 0.2.0
 files:
-  - url: Metin2Manager-Setup-0.0.0.exe
-    sha512: TUpg+ymwh6X8BtSC1+qwp9SbVUd8NyC6saJove/gwsQPcxf5Xfqxvhpw63Xswh7o2ZYeUPwuP2D4A2yf5/cN8g==
-    size: 89665055
-path: Metin2Manager-Setup-0.0.0.exe
-sha512: TUpg+ymwh6X8BtSC1+qwp9SbVUd8NyC6saJove/gwsQPcxf5Xfqxvhpw63Xswh7o2ZYeUPwuP2D4A2yf5/cN8g==
-releaseDate: '2026-03-09T04:09:59.297Z'
+  - url: Metin2Manager-Setup-0.2.0.exe
+    sha512: HXiVJ/L5TVeGOB3bSEw0AYJ8/OJGImzWjV3421f95OKdLckoGS8CEG3YtBhjSRFgWLC8sLrkIdp9+ZjjPOIJ2A==
+    size: 89664966
+path: Metin2Manager-Setup-0.2.0.exe
+sha512: HXiVJ/L5TVeGOB3bSEw0AYJ8/OJGImzWjV3421f95OKdLckoGS8CEG3YtBhjSRFgWLC8sLrkIdp9+ZjjPOIJ2A==
+releaseDate: '2026-03-09T05:10:12.437Z'
